@@ -1,0 +1,167 @@
+
+
+.fixed-image {
+  height: 200px; 
+}
+
+header{
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f9f4ec; 
+  color: #5e5e5e;
+text-align: center;
+}
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  background-color: #f9f4ec; 
+  color: #5e5e5e; 
+}
+
+h1, h2, h3 {
+  font-family: 'Cinzel', serif;
+  color: #7c4848; 
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.navbar-brand {
+  font-family: 'Cinzel', serif;
+  font-size: 24px;
+  color: #7c4848; 
+}
+
+.navbar-nav .nav-link {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  color: #5e5e5e; 
+}
+
+.btn-primary {
+  background-color: #7c4848; 
+  border-color: #7c4848; 
+  color: #fff; 
+}
+
+
+
+  .card {
+    max-width: 300px; 
+    margin: 0 auto; 
+    margin-bottom: 20px; 
+  
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  transition: transform 0.2s;
+}
+
+.card:hover {
+  transform: scale(1.05);
+}
+
+.card-img-top {
+  border-radius: 8px 8px 0 0;
+}
+
+.card-body {
+  padding: 20px;
+  background-color: #fff; 
+  border-radius: 0 0 8px 8px;
+}
+
+
+
+h1, h2, h5 {
+  font-family: 'Cinzel', serif;
+  color: #7c4848; 
+}
+
+p {
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+.navbar-brand {
+  font-family: 'Cinzel', serif;
+  font-size: 24px;
+  color: #7c4848; 
+}
+
+.navbar-nav .nav-link {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+  color: #5e5e5e; 
+}
+
+.btn-primary {
+  background-color: #7c4848; 
+  border-color: #7c4848; 
+  color: #fff; 
+}
+
+#special-offers, #featured-items {
+  margin-top: 30px;
+}
+
+.feature-item {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.feature-item img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #eabda8; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+  margin-bottom: 20px;
+}
+
+
+
+#first {
+  background-color: #eabda8; 
+  text-align: center;
+  padding: 20px;
+}
+
+nav {
+  background-color: #ffd3b6; 
+}
+
+nav a.nav-link {
+  color: #7c4848; 
+}
+
+nav a.nav-link:hover {
+  color: #b06d6d; 
+}
+
+section {
+  padding: 20px;
+  background-color: #f7e3d0; 
+  margin-top: 20px;
+}
+
+footer {
+  text-align: center;
+  padding: 20px;
+  background-color: #eabda8; 
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+
+
+
+.card-img-top {
+  width: 100%;
+  height: auto;
+}
+
+.card {
+  background-color: #f7e3d0; 
+  border: 1px solid #eabda8; 
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
+}
